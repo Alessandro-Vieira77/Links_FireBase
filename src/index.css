@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(#232630, #050507);
+}
+
+.heanderHome {
+  margin: 10px;
+}
