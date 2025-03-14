@@ -57,7 +57,7 @@ export function Login() {
 
         <button
           type="submit"
-          className="bg-blue-600 rounded border-0 text-lg font-medium text-white"
+          className="bg-blue-600 rounded border-0 text-lg font-medium text-white cursor-pointer"
         >
           Acessar
         </button>
